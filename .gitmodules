@@ -1,0 +1,6 @@
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:UniversalWill/nvim.git
+[submodule "dwm"]
+	path = dwm
+	url = https://git.suckless.org/dwm
