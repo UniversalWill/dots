@@ -1,6 +1,7 @@
 [submodule "nvim"]
-	path = nvim
-	url = git@github.com:UniversalWill/nvim.git
+    path = nvim
+    url = git@github.com:UniversalWill/nvim.git
+    branch = master
 [submodule "dwm"]
-	path = dwm
-	url = https://git.suckless.org/dwm
+    path = dwm
+    url = https://git.suckless.org/dwm
