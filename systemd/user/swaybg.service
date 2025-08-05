@@ -1,0 +1,8 @@
+[Unit]
+PartOf=graphical-session.target
+After=graphical-session.target
+Requisite=graphical-session.target
+
+[Service]
+ExecStart=/usr/bin/swaybg -m fill -i "%h/Pictures/Wallpapers/2k-Red-Sun-Illuminating-Japanese-Temple-Mountain-Scene.jpg"
+Restart=on-failure
